@@ -17,7 +17,7 @@ contador = 0
 
 while True:
     print("Ingrese cualquier número entero mayor o igual a cero")
-    print("Ingrese número negativo para teriminar el programa")
+    print("Ingrese número negativo para terminar el programa")
     numero = int(input())
 
     if numero >= 0:

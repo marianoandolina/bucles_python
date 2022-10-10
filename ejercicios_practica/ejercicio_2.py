@@ -25,7 +25,7 @@ for color in colores:
 # los elementos de la lista
 # for i ...
 
-for i in len(colores):
-
+for i in range(len(colores)):
+    print(colores[i])
 
 print("terminamos!")
